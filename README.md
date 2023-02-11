@@ -4,7 +4,7 @@
 
 <ul align="justify">
   <li>Sempre tive paixão por tecnologia, então me formei em Sistemas de Informação e atualmente estou estudando para atuar no mercado de trabalho como Desenvolvedora Web.</li>
-  <li>Se quiser saber mais sobre mim e meus projetos, sinta-se à vontade para navegar pelo meu perfil aqui no GitHub ou entrar em contato comigo. Obrigado por visitar!</li>
+  <li>Se quiser saber mais sobre mim e meus projetos, sinta-se à vontade para navegar pelo meu perfil aqui no GitHub ou entrar em contato comigo. Obrigada por visitar!</li>
 </ul>
 
 ## GitHub Stats
