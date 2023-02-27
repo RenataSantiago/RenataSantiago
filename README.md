@@ -1,4 +1,4 @@
-<!-- ### Oie, me chamo Renata 👋 
+### Oie, me chamo Renata 👋 
 
 ### Sobre mim
 
@@ -12,11 +12,11 @@
 <table>
 <tr><td>
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiovaniAP-VANOengenharia&show_icons=true&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenataSantiago&show_icons=true&theme=blue-green" />
   </a>
 </td><td>
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniAP-VANOengenharia&layout=compact&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataSantiago&layout=compact&theme=blue-green" />
   </a>
 </td></tr>
 </table>
